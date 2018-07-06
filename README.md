@@ -14,13 +14,16 @@ MILP_IM_RK_(S1_Tk1_Output).cpp
     This is the main application source file.
 
 /////////////////////////////////////////////////////////////////////////////
+
 Other files:
+
 Help.pdf 
 a help file and comments to indicate parts of the source code you
 should need
 
 
 /////////////////////////////////////////////////////////////////////////////
+
 Other notes:
 
 AppWizard uses "TODO:" comments to indicate parts of the source code you
