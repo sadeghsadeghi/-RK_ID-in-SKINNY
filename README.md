@@ -20,7 +20,7 @@ Other files:
 
 Help.pdf 
 
-a help file and comments to indicate parts of the source code you
+A help file and comments to indicate parts of the source code you
 should need
 
 
